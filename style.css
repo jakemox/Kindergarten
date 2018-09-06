@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+nav {
+    text-align: center;
+    margin: 1rem;
+}
+
+li {
+    display: inline-block;
+    list-style: none;
+    margin: 0rem 1rem;
+}
+
+h1 {
+    color: white;
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 140%;
+    padding-top: 2rem;
+    padding-left: 200px;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    padding: 2rem ;
+}
+
+.banner {
+    background-image: url('images/banner.jpg');
+    height: 20rem;  
+}
+
+.mission {
+    background-color: #FFE964;
+    text-align: center;
+    height: 12rem;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+.mission p {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.about {
+    text-align: left;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+.about h2 {
+    margin-left: -2rem;
+}
+
+.team {
+    background-color: #FF523D;
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+.team h2 {
+    text-align: left;
+    color:  white;
+    margin-left: 154px;
+}
+
+.team p {
+    color: white;
+}
+
+.libby {
+    padding-bottom: 2rem;
+}
+
+.phoebe {
+    padding-bottom: 2rem;
+}
+
+.joshua {
+    padding-bottom: 2rem;
+}
+
+.leon {
+    padding-bottom: 3rem;
+}
+
+h3 {
+    color: white;
+}
+
+.contact {
+    background-color: #223C88;
+    text-align: left;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 3rem;
+}
+
+.contact h2 {
+    color: white;
+    margin-left: -2rem;
+}
+
+.contact p {
+    color: white;
+}
+
+a {
+    color: black;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+#kinder {
+    padding-bottom: 1rem;
+    border-bottom: 4px solid white;
+}
